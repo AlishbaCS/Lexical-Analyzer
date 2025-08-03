@@ -1,0 +1,7 @@
+# Python style comment
+int main() {
+    int a = 5;
+int _x==7;
+    printf("i am the best");
+    b = a + 2;
+}

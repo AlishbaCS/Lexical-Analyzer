@@ -1,0 +1,7 @@
+keyword: int, printf
+identifier: main, a, b
+operator: =, +
+literal: "i am the best"
+punctuation: (, ), ;, }, {
+comment: # Python style comment
+constant: 2, 5
